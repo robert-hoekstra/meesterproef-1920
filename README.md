@@ -5,6 +5,8 @@ A Student project made possible by AUAS and WallScope.
 This repo is all about documentation and mainly about personal progress and iterations made within the group project.
 For the total STRVCT product and relevant information I would kindly ask you to go to [this repo](https://github.com/aaraar/strvct/).
 
+All of the relevant documentation can be found at the wiki.
+
 ## The application
 Start: [STRVCT](https://strvct.herokuapp.com/)
 
